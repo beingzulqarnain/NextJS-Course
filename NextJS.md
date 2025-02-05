@@ -3,6 +3,7 @@
 ## Introduction 📖
 Next.js is a powerful React framework that enables server-side rendering (SSR), static site generation (SSG), and other performance optimizations out of the box. It simplifies the process of building modern web applications with a great developer experience.
 
+
 ## Why Use Next.js? 🤔
 - ✅ **Automatic Server-Side Rendering (SSR)**: Pages load faster with pre-rendered content.
 - ✅ **Static Site Generation (SSG)**: Pre-builds pages for performance.
